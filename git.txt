@@ -1,0 +1,25 @@
+It is a tool where we can manage the changes
+Download git and install
+
+to check version -> git --version
+
+To set your name and email -> 
+git config --global user.name 'Sandhya Kamurti'
+git config --global user.email 'sandyakamurti@gmail.com'
+
+To check name and email ->
+git config --global user.name
+git config --global user.email 
+
+To edit name and email ->
+git config --global --edit (to exit from this window :WQ and press enter)
+
+To initialize git on your folder -> git init
+
+To check status -> git status 
+
+To add files -> git add FileName (After that file come to staging area)
+
+For final commit -> git commit -m "Commit message"
+
+to check logs who have commited files -> git log
